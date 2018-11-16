@@ -23,7 +23,7 @@ namespace Test_LeiKu01
             MyProject01.QueryForm query = new MyProject01.QueryForm();
             navigatorEx1.ShowAddBtn = true;
             navigatorEx1.AddButton("xxx", selectAll);
-            query.Show();
+            //query.Show();
             //main.Show();
             //main.Show();
             
